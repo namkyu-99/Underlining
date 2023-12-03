@@ -12,7 +12,7 @@ VR을 활용한 기능성 스포츠 _(졸업작품 팀 프로젝트)_
 ### 2. 인원 및 역할
 > |                    Name                    |  Position   |
 > | :----------------------------------------: | :---------: |
-> | [박남규](https://github.com/namkyu-99) | Game System, UI |
+> | **[박남규](https://github.com/namkyu-99)** | **Game System, UI** |
 > | [이환진](https://github.com/mokoon) | Map Design |
 > | [남궁진](https://github.com/Nomemb) | Character Rigging |
 > | 이태연 | Project Leader |
