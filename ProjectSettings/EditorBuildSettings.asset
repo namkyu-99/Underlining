@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: a4f97a23ecf0ebd4da8dbb4b16a52f81
+  - enabled: 1
+    path: Assets/Scenes/Canyon.unity
+    guid: 8b239ac2c4e188d428cb51ebfadcbbb0
+  - enabled: 1
+    path: Assets/Scenes/SnowMountain.unity
+    guid: e1886396fe40e904e9dac1ec87aea11d
+  - enabled: 1
+    path: Assets/Scenes/City.unity
+    guid: fc1a5700bbd3ec9499215bfd77f711c9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a528938d62f81e94cbc7a173df84824c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 89ba7692eb3067245a78a5323ef5e65e,
+      type: 2}
