@@ -17,6 +17,9 @@ VR을 활용한 기능성 스포츠 _(졸업작품 팀 프로젝트)_
 > | [남궁진](https://github.com/Nomemb) | Character Rigging |
 > | 이태연 | Project Leader |
 
+### 3. 성과
+> 우수작품 선정 (38개 팀 중 6위)
+
 <br />
 
 ## 🔑 프로젝트 내용
