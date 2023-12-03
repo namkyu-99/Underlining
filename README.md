@@ -41,4 +41,6 @@ VR을 활용한 기능성 스포츠 _(졸업작품 팀 프로젝트)_
 <br />
 
 ### 3. 시연 영상
-> 
+> <img src="https://github.com/namkyu-99/Portfolio/assets/128462226/d7323f32-97f2-44e6-9369-7ebdafd3dbd5" width="800">
+> <img src="https://github.com/namkyu-99/Portfolio/assets/128462226/283abf49-0a70-41fa-bba7-022f76985523" width="800">
+> <img src="https://github.com/namkyu-99/Portfolio/assets/128462226/5c3a2b36-cc2d-4254-af34-9528558788e8" width="800">
